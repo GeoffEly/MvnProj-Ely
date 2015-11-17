@@ -76,7 +76,7 @@
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
 					<username>E172047</username>
-					<password>n00dle!!TRIAN</password>
+					<password>n00dle!!TRAIN</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Training</environment>
