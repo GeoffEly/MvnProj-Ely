@@ -80,7 +80,7 @@
 					<password>n00dle!!TRAIN</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
-					<environment>SF-PRODUCTION</environment>
+					<environment>Training</environment>
 				</configuration>
 				<executions>
 					<execution>
