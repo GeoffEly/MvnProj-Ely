@@ -75,11 +75,11 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>nkian</username>
-					<password>Nilou201</password>
+					<username>E172047</username>
+					<password>n00dle!!TRIAN</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
-					<environment>MuleAdvancedTraining</environment>
+					<environment>Training</environment>
 				</configuration>
 				<executions>
 					<execution>
